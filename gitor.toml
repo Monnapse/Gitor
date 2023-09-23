@@ -1,0 +1,12 @@
+[build-system]
+requires = [
+]
+
+[project]
+name = "Gitor"
+version = "0.0.1"
+authors = [
+  { name="Monnapse", email="masonshuber@gmail.com" },
+]
+description = "Github python wrapper"
+readme = "README.md"
