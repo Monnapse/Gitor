@@ -11,3 +11,7 @@ src/gitor/_set.py
 src/gitor/api.py
 src/gitor/gitrequest.py
 src/gitor/repositories.py
+src/gitor.egg-info/PKG-INFO
+src/gitor.egg-info/SOURCES.txt
+src/gitor.egg-info/dependency_links.txt
+src/gitor.egg-info/top_level.txt

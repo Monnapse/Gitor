@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
-Name: Gitor
+Name: gitor
 Version: 0.0.1
 Summary: Github python wrapper, Custom made for getting repositories for your python web server.
 Home-page: https://github.com/monnapse/gitor
 Author: Monnapse
-Author-email: Monnapse <masonshuber@gmail.com>
+Author-email: monnapse@gmail.com
 Project-URL: Bug Tracker, https://github.com/monnapse/gitor/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
