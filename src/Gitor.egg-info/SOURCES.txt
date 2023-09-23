@@ -2,10 +2,6 @@ LICENSE
 README.md
 pyproject.toml
 setup.cfg
-src/Gitor.egg-info/PKG-INFO
-src/Gitor.egg-info/SOURCES.txt
-src/Gitor.egg-info/dependency_links.txt
-src/Gitor.egg-info/top_level.txt
 src/gitor/__init__.py
 src/gitor/_set.py
 src/gitor/api.py
