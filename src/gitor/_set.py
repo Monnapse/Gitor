@@ -1,4 +1,4 @@
-def findValueInJSON(JSON: set, attribute: str, value: str):
+def find_value_in_json(JSON: set, attribute: str, value: str):
     """
     Find the set that has attribute that is equal to value
     """

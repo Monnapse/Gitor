@@ -1,7 +1,7 @@
 name = "name"
 raw = "download_url"
 
-def getRepoURL(owner: str, name: str):
+def get_repo_url(owner: str, name: str):
     """
     Get the repository url
     """
@@ -9,7 +9,7 @@ def getRepoURL(owner: str, name: str):
     name = name.lower()
     return f"https://api.github.com/repos/{owner}/{name}/contents"
 
-def getHeaders(token: str):
+def get_headers(token: str):
     """
     get headers for private repositories
     """
