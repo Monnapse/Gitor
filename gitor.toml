@@ -8,5 +8,5 @@ version = "0.0.1"
 authors = [
   { name="Monnapse", email="masonshuber@gmail.com" },
 ]
-description = "Github python wrapper"
+description = "Github python wrapper, Custom made for getting repositories for your python web server."
 readme = "README.md"
