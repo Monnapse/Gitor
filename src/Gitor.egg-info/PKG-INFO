@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: gitor
-Version: 0.0.2
+Version: 0.0.3
 Summary: Github python wrapper, Custom made for getting repositories for your python web server.
 Home-page: https://github.com/monnapse/gitor
 Author: Monnapse
