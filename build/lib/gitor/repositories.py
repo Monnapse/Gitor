@@ -43,23 +43,6 @@ def build(repo_name: str, content: str):
 
 def build_repository(self, repository: set) -> set:
     repo_build = {}
-
-    def add_directory(path: str):
-        directory_list = path.split("/")
-        proxy = repo_build
-        last = proxy
-        index = 0
-        
-        # iterate through all the paths
-        for i in directory_list:
-            #print(i)
-            try:
-                last = last[i]
-            except:
-                last[i] = {}
-
-            index+=1
-
         #print(proxy, last)
 
     def add_to_directory(build: set, path: str):
